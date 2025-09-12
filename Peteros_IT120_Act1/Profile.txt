@@ -4,3 +4,9 @@ Last Name: Peteros
 Gender: Male
 Age: 21
 Contacts:09098184444
+Birth of place: Magallanes, Agusan Del Norte
+Religion: Roman Catholic
+Father's Name: Michael S. Peteros
+Occupation: Electrician
+Mother's Name: Eleonor T. Peteros
+Occupation: Housewife
