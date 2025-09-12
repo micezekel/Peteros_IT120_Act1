@@ -1,1 +1,6 @@
-
+First Name: Micezekel
+Middle Name: Tayon
+Last Name: Peteros
+Gender: Male
+Age: 21
+Contacts:09098184444
